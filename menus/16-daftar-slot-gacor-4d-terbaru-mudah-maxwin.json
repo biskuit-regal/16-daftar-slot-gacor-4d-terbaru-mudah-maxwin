@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle 16-daftar-slot-gacor-4d-terbaru-mudah-maxwin",
+        "command": "16-daftar-slot-gacor-4d-terbaru-mudah-maxwin:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "16-daftar-slot-gacor-4d-terbaru-mudah-maxwin",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "16-daftar-slot-gacor-4d-terbaru-mudah-maxwin:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
