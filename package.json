@@ -1,7 +1,7 @@
 {
   "name": "16-daftar-slot-gacor-4d-terbaru-mudah-maxwin",
   "main": "./lib/16-daftar-slot-gacor-4d-terbaru-mudah-maxwin",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Ternyata!! konsep cara terbaru di 16 daftar slot gacor 4d terbaru di Indonesia supaya mudah maxwin 2022",
   "keywords": [
     "slot gacor4d",
@@ -18,6 +18,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
